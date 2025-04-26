@@ -8,7 +8,7 @@ INTERN ID : CT04WS27
 
 DOMAIN : DATA SCIENCE
 
-MANTOR : NEELA SANTHOSH KUMAR
+MENTOR : NEELA SANTHOSH KUMAR
 
 Description of the Deep Learning Code for MNIST Classification
 This Python script demonstrates how to build a simple Deep Learning model using TensorFlow and Keras APIs to perform image classification on the MNIST dataset. The MNIST dataset is a well-known dataset consisting of handwritten digits (0–9), and is a common starting point for deep learning beginners.
