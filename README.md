@@ -140,3 +140,5 @@ Evaluation (final accuracy)
 
 Even though the model is very simple, it can achieve high accuracy (around 97%-98%) on the MNIST dataset. This small project forms the foundation of understanding more complex neural networks like Convolutional Neural Networks (CNNs) later.
 
+![Image](https://github.com/user-attachments/assets/4e3fdf80-58e2-4afd-a2ff-7faef8141f95)
+
